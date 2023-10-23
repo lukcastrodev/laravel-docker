@@ -1,4 +1,5 @@
 # laravel-docker
+Aplicação simples para ambiente de desenvolvimento Laravel, usando docker-compose. 
 
 ## Passos:
 - Criar pasta para o MySQL em **./mysql**(Caso tenha um dump do banco de dados, criar a pasta dumps em ./mysql/dumps/SEU_DUMP_AQUI.sql).
